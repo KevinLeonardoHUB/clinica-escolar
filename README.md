@@ -117,12 +117,6 @@ Existe um arquivo de exemplo chamado:
 
 Copie esse arquivo, ajuste os valores e configure no seu ambiente local ou na hospedagem.
 
-## Observação importante
-
-Este projeto **não funciona no GitHub Pages**, porque o GitHub Pages só executa sites estáticos com HTML, CSS e JavaScript.
-
-Como este projeto usa **PHP** e **MySQL**, o GitHub deve ser usado para guardar e apresentar o código. Para colocar o site online funcionando, é necessário usar uma hospedagem com suporte a PHP e MySQL.
-
 ## Autor
 
 Quévin Tavares
